@@ -1,0 +1,52 @@
+{
+  "news": [
+    {
+      "img" : "https://riwi.io/wp-content/uploads/2023/12/1.png",
+      "anunciado" : "medio de la temporada seca y tras una fuerte emergencia generada por los incendios forestales en el país, varias regiones de Colombia han registrado lluvias. Durante los últimos días fuertes precipitaciones se han visto en amplias zonas del territorio nacional, lo que ha llamado la atención de expertos, pues actualmente estamos en la temporada de menos lluvias y además estamos influenciados por el fenómeno de El Niño."
+
+    },
+    {
+      "anunciado" : "Besaile Fayad fue sentenciado como autor penalmente responsable del delito de tráfico de influencias de servidor público, dos años y medio de prisión, además deberá pagar una multa equivalente a 68.33 salarios mínimos legales vigentes e inhabilidad para el ejercicio de derechos y funciones públicas por tres años y tres meses.."
+
+
+    },
+    {
+      "anunciado" : "Este especial contó con crónicas, infografías y fotografías que ahondaron en el impacto social y ambiental de la minería, cosa que resaltó el jurado de los Premios del Círculo de Periodistas de Bogotá –Premios CPB–, cuya ceremonia de entrega de reconocimientos se conoce como ‘La noche de los mejores’."    }
+  ],
+  "categories": [
+
+  ],
+  "users": [
+    {
+      "id": "d371",
+      "name": "Your Name",
+      "email": "test@riwi.io",
+      "password": "riwi2024"
+    },
+    {
+      "name": "Names",
+      "email": "prueba17@gmail.com",
+      "password": "12345"
+    },
+    {
+      "name": "Namea",
+      "email": "prueba19@gmail.com",
+      "password": "12345"
+    },
+    {
+      "name": "Namew",
+      "email": "prueba11@gmail.com",
+      "password": "12345"
+    },
+    {
+      "name": "Namee",
+      "email": "prueba12@gmail.com",
+      "password": "12345"
+    },
+    {
+      "name": "Nam1",
+      "email": "prueba13@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
